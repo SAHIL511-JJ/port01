@@ -1,0 +1,57 @@
+PROCESS UI ISSUES (21) :-
+
+Delete popup stays too long
+Added form not immediately visible, takes 15 secs or needs refresh
+Update button always active, should disable when no changes
+White space at bottom of process edit page
+No search option when adding documents to group
+Group document update button always active
+Group documents missing optional/required toggle, only smart processing
+No character constraint for process name, causes WhatsApp bugs
+Only first 2 document rows visible, need "Show More" option
+Forms used in process should be visible but not clickable, not disappear
+Back to Processes needs black background on hover
+Unsaved changes indicator always visible
+Need hours and minutes with dates
+View button redirects back then opens view again
+Process description not visible in view process tab
+Clicking document/form redirects to tabs instead of showing details
+View uploaded document button gives error
+Completed process anomalies not visible in view detail
+Portal option should be checked by default when process has forms
+Need refresh to see updated process changes
+
+
+
+
+USERS UI ISSUES (14) :-
+
+No pagination for users
+Can only view own process anomalies, not others
+WhatsApp chat opens generic viewer, not selected user conversation
+Assign process button doesn't work
+View document doesn't work
+No hours/minutes beside assigned/completed dates
+Need refresh to see anomalies in process history
+Delete button inconsistent or doesn't work
+Shows "1 selected" when none selected
+Loading screen after using assign/stop process button
+Need reload to see updated user changes
+Delete button doesn't disappear after use
+Need cross button in search bar to clear text
+Stop process/assign/delete buttons should only show when user selected
+
+
+
+
+DOCUMENTS UI ISSUES (7) :-
+
+Need cross button in search bar to clear text
+Edit tab takes 2 minutes to load sometimes
+Required/optional field button doesn't work
+Cannot edit field names or types
+Cannot delete a field
+Cannot update document, button unclickable
+Edit page UI very laggy
+we need to refresh to see the newly created document.
+refresh button spins forever.
