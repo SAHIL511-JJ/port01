@@ -53,7 +53,6 @@ create-next-app@latest
 
 # Backend directories that might exist but shouldn't be committed
 backend/
-frontend-next/
 
 # Node-related caches and temp files
 node_modules/
